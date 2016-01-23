@@ -1,3 +1,6 @@
+# Photon
+A pretty simple photo-sharing application built with Ionic.
+=======
 Ionic App Base
 =====================
 
